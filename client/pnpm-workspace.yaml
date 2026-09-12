@@ -1,0 +1,5 @@
+allowBuilds:
+  unrs-resolver: set this to true or false
+minimumReleaseAgeExclude:
+  - '@next/swc-win32-x64-msvc@16.3.5'
+  - cn@0.3.0
